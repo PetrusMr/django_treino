@@ -1,0 +1,14 @@
+echo "__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+login
+ll_env/
+ll_env/Lib/
+venv/
+ll_env/
+*/Scripts/
+*/bin/
+login/Lib/site-packages/" > .gitignore
